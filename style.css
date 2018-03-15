@@ -1,0 +1,22 @@
+body {
+  background: #202028;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+#game {
+  padding-top: 1em;
+}
+#tetris {
+  border: solid 0.2em #fff;
+  height: 90vh;
+}
+#nextPiece {
+  border: solid 0.2em #fff;
+  height: 20vh;
+}
+#leftSide {
+  display: inline-block;
+  vertical-align: top;
+}
